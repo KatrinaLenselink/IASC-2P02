@@ -1,4 +1,4 @@
-# IASC-2P02
+# IASC-2P02 | Katrina Lenselink
 
-Hello World 
-Hello there 
+About Me: 
+
