@@ -10,16 +10,7 @@ Humanities would benefit from understanding that there are advantages to having 
 
 Science would conversely benefit from more creativity in their graphs and being aware of the subjectivity already present in the graphs and results. This is a point that is well supported by Drucker’s ideas about rethinking graphical expressions from a humanities approach. Drucker argues that the sciences should adopt a more interpretive view when it comes to graphical visualizations. Drucker believes “the rendering of statistical information into graphical form gives it a simplicity and legibility that hides every aspect of the original interpretive framework on which the statistical data were constructed”. This is a point that will be explained using the visualization below.
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<!--
-<iframe style='width: 580px; height: 463px;' src='//https://voyant-tools.org/?corpus=b7c923b30693a828c9183bcfd9f6e969&query=empirical*&query=interpretation&query=approach&mode=corpus&view=CollocatesGraph></iframe>
---> 
-<iframe style="width:650px; height: 750px;" src="processing/empty-example/index.html"></iframe> 
+![](images/Blog_Post_Graph.PNG)
 
 Whenever an experiment is done and results are produced, there is always subjectivity and biases that come into play. As stated in Sculley and Pasanek (2008), “… experimenter assumptions operate at the forefront and directly impact the design of experiment and subsequent results”.  This visualization supports the argument that I’m making, not necessarily through the information shown in the graph, but by the process of creating the visualization itself. In creating this visualization, I was able to choose which keywords I wanted to use, as well as which form of graph I thought would best support my point. In the reasoning behind why I chose what I did, it was to have a graph that only showed the information that I wanted it to, to illustrate how researchers can bias a graph.  If someone else were to look at this visualization, they might interpret the information in a completely different way. For example, one interpretation of this graph based on what is shown could be that because ‘graphical’ is linked to ‘interpretation’ and ‘expression’ but not ‘empirical’ or ‘data’, it means that graphs should be more focused on the meaning that they represent, rather than the objectivity of the data in the graph. However, if I were to change the key words when creating the graph, the links could change and could lead to different interpretations of the same data. That is where the science approach may be useful in providing more objectivity in order to build off of concrete ideas and then add the interpretation. 
 
