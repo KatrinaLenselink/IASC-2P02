@@ -9,3 +9,7 @@ I am from a very small town called Harriston which usually no one has heard of. 
 ## Blog Post 
 
 Digital Humanities and Science: Collaboration of Research Methods: [continue reading](blog)
+
+## Solo Presentation
+
+[Title of Presentation](reveal/index.html)
