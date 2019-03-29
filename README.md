@@ -12,4 +12,4 @@ Digital Humanities and Science: Collaboration of Research Methods: [continue rea
 
 ## Solo Presentation
 
-[Title of Presentation](reveal/index.html)
+[Media Archaeology Presentation](reveal/index.html)
