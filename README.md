@@ -1,9 +1,9 @@
 # IASC-2P02 | Katrina Lenselink
 
-## Bio
+## Research Statement 
 I am in my second year at Brock university, majoring in Interactive Arts and Science. My specific area of specialization is in the research field of Media Archaeology. This specialization consists of analyzing past media in order to understand present and emerging digital technologies in the media today. Two projects I have in my portfolio reflect my research focus as they both concentrate on the integration of the past into current technologies. The collaborative project in my portfolio focused on analyzing the media tool “The Map of Early Modern London”. This tool was used to showcase what early London would have looked like back in that era. Our group chose to analyze this tool as we were interested in looking back at the past through a modern digital view. Secondly, my research presentation analyzed the impact that a fictional technology from an old television show has on the development of current technologies today. In the future I would be interested in how we could utilize current digital media, such as AR and VR, to explore historic moments in time. For example, implementing virtual reality in history exhibits in a museum to allow visitors to fully immerse themselves in the past and gain a better understanding. 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![](images/digital_humanities_wordle.png) 
 
@@ -20,6 +20,8 @@ After receiving feedback on my initial presentation, I did more research on tech
 
 View [Media Archaeology: Live long, and prosper](reveal/index.html)
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Collaborative Project 
 
 For this project, my group chose to use the digital online tool called “The Map of Early Modern London (MoEML)”. This tool was an online, interactive map that depicted what London would have looked like in the 1600s. The research question we chose to explore was about the popularity levels of Christianity during a certain time period. Our three areas of focus were on the number of churches, number of chapels, and number of Christian streets. Our findings indicated a fair amount of Christian symbolism throughout the map of London. We used this information to conclude that Christianity was fairly popular during this time as it affected the naming of streets and construction of buildings. 
@@ -35,6 +37,7 @@ My approach to collaboration is to begin with an organized idea of the work that
 
 [Media Archaeology: Live long, and prosper](reveal/index.html)
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Academic Blog
 
